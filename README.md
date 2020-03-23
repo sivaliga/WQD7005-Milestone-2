@@ -10,3 +10,5 @@
 3) Dataset used to load into hive : https://github.com/sivaliga/WQD7005-Milestone-2/blob/master/United_Nations_2017.csv
 
 4) Video link : https://share.vidyard.com/watch/Y9QJyAbgPTZUgwYf8Tm9X5?
+
+https://share.vidyard.com/watch/whzYpnQUTk9bx5KuUvCZiP?
